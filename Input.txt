@@ -1,0 +1,16 @@
+   // ----------------------INPUT------------------------//
+        // to take input in java, we use Scanner class from the util package
+        Scanner sc = new Scanner(System.in);
+        // System.out.println("Enter your Name");
+        // String name = sc.next();
+        // System.out.println("name = "+name);//take only one toke, after 1st space it stops
+        
+        System.out.println("Enter your Name Again");
+        String Name = sc.nextLine();
+        System.out.println("Full Name"+ Name);
+
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int sum = a+b;
+        System.out.println("SUM = "+sum);
+

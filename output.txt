@@ -1,0 +1,23 @@
+// ----------------------------------------OUTPUT-----------------------------------------------------//
+        // output is what is the end result
+        // Ways to print o/p in java
+        // 1 -> use system.out.print("msg")==> will print you msg(but no line break)
+        // System.out.print("Hello Java");
+        // System.out.print("My World");//no line break.
+
+        // 2 -> use System.out.println("msg")==> prints msg with line break
+        // System.out.println("My World");
+        // System.out.println("Full of love");//mgs on different lines
+
+        // 3-> use \n to break
+        // System.out.println("Java my world \nLove this");//java my world & love this on different lines.
+
+
+
+        //questin print 
+        // *
+        // **
+        // ***
+        // ****
+        // *****
+        // System.out.print("*\n**\n***\n****\n*****");

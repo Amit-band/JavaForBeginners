@@ -1,0 +1,15 @@
+ // -----------------------------------------VARIABLES & CONSTANTS IN JAVA------------------------------------------------//
+
+        // Variables-> used to data/ identifiers foe where the data is stored in the memory.a =23; a stores 23.
+        // constant -> has a specific values which can't be changed.ex:pi = 3.14
+          // -------------------How to define variables--------------------------//
+        // let say we want to an empolyee detials. in includes it name,age,salary,absent or not.
+        String name = "Amit Band";
+        int age = 22;
+        double salary = 55000.50;
+        boolean present = true;
+
+        System.out.println("Name :"+name);
+        System.out.println("Age :"+age);
+        System.out.println("Salary :"+salary);
+        System.out.println("Present :"+present);
